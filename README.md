@@ -1,1 +1,2 @@
-# clinic_research_api
+# Hospital-Managment-Software
+Mange patients record across hospital personnel
